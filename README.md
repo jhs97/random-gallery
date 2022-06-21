@@ -1,7 +1,9 @@
 # Random Image Gallery
 <br>
- https://jhs97.github.io/random-gallery/ <br>
-![randomimagepriview](https://user-images.githubusercontent.com/105402450/174710263-cdb54773-c960-422b-a9e1-39d315e539cc.PNG)
+ https://jhs97.github.io/random-gallery/ 
+ <br>
+![randomimagepriview](https://user-images.githubusercontent.com/105402450/174710581-42361cfa-d0df-4bc3-8940-061b09738b96.PNG)
+
 
 ## 소개
 - 랜덤하게 이미지가 변경되는 갤러리
