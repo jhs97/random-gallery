@@ -1,6 +1,7 @@
 # Random Image Gallery
-<br>
-![randomimagepriview](https://user-images.githubusercontent.com/105402450/174710581-42361cfa-d0df-4bc3-8940-061b09738b96.PNG)
+ https://jhs97.github.io/random-gallery/
+ ![randomimagepriview](https://user-images.githubusercontent.com/105402450/174710668-cbae5b65-954b-4877-9970-abd331f455be.PNG)
+
 
 
 ## 소개
